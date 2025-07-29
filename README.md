@@ -45,5 +45,5 @@ Strength levels:
 
 1. **Clone this repository** or copy the source code into a file:
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/abdullarakeeb/password-strength-checker.git
    cd password-strength-checker
